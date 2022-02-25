@@ -3,7 +3,6 @@ moved to https://github.com/go-gorm/optimisticlock
 # optimisticlock
 gorm-optimisticlock is optimistic lock plugin for gorm.
 
-## require
 
 ```go
 import "github.com/whoisix/gorm-optimisticlock"
